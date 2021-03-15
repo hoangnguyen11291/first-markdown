@@ -23,3 +23,10 @@
 # One thing that I worried of:
 
 <p><em>The weekly project as hard as MLE and I have no weekend again</em></p>
+
+# Favorite quotes:
+<p><strong>IF YOU GOOD AT SOMETHING, DON'T DO IT FOR FREE</strong></p>
+
+# Favorite music:
+
+[Yến Vô Hiết](https://www.youtube.com/watch?v=lNCViM7R8N8)
