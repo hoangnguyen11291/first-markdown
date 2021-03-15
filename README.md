@@ -14,5 +14,12 @@
 
 # Programing Experience:
 
-<strong><em>4 Months</em></strong> of programing
-<strong><em>Python</em></strong> is my <strong>main</strong> programing language
+<p><strong><em>4 Months</em></strong> of programing</p>
+<p><strong><em>Python</em></strong> is my <strong>main</strong> programing language</p>
+
+# Reason to choose FTW
+<p>To diversity my choise of carrer path and remake my <strong>website</strong> that I made in <strong><em>MLE</em></strong> class</p>
+
+# One thing that I worried of:
+
+<p><em>The weekly project as hard as MLE and I have no weekend again</em></p>
